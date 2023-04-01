@@ -1,7 +1,7 @@
 ## Installation
 
 ```
-https://raw.githubusercontent.com/Jaksuhn/MyDalamudPlugins/main/pluginmaster.json
+https://raw.githubusercontent.com/Jaksuhn/DalamudPlugins/main/pluginmaster.json
 ```
 
 - Copy the link above
