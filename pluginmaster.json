@@ -13,11 +13,11 @@
     ],
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "AssemblyVersion": "0.0.1",
-    "LastUpdated": 1680330755,
+    "AssemblyVersion": "0.0.2",
+    "LastUpdated": 1680344043,
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://github.com/Jaksuhn/GettingTooAttached/releases/download/0.0.1/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Jaksuhn/GettingTooAttached/releases/download/0.0.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Jaksuhn/GettingTooAttached/releases/download/0.0.1/latest.zip"
+    "DownloadLinkInstall": "https://github.com/Jaksuhn/GettingTooAttached/releases/download/0.0.2/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Jaksuhn/GettingTooAttached/releases/download/0.0.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Jaksuhn/GettingTooAttached/releases/download/0.0.2/latest.zip"
   }
 ]
