@@ -14,4 +14,4 @@ https://raw.githubusercontent.com/Jaksuhn/MyDalamudPlugins/main/pluginmaster.jso
 
 ## My Plugins
 
-AutoHook - https://github.com/Jaksuhn/GettingTooAttached
+GettingTooAttached - https://github.com/Jaksuhn/GettingTooAttached
