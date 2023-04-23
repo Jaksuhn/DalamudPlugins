@@ -1,7 +1,16 @@
-[{
+[
+  {
     "username": "Jaksuhn",
     "pluginName": "GettingTooAttached",
     "repo": "GettingTooAttached",
     "branch": "master",
     "configFolder": "GettingTooAttached"
-}]
+  },
+  {
+    "username": "Jaksuhn",
+    "pluginName": "Divination.FaloopIntegration",
+    "repo": "Divination.FaloopIntegration",
+    "branch": "main",
+    "configFolder": "Divination.FaloopIntegration"
+  }
+]
